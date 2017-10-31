@@ -3,7 +3,7 @@
 Thanks for taking the time to contribute!!
 
 GoRequest welcomes any kind of contributions including documentation, bug reports,
-issues, feature requests, feature implementations, pull requests, helping to manage and answer issues, etc.
+issues, feature requests, feature implementations, pull requests, helping to manage and answer issues, alongwith any other change deemed necessary etc.
 
 ### Code Guidelines
 
