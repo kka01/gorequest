@@ -72,7 +72,7 @@ req.Header.Add("If-None-Match", `W/"wyzzy"`)
 resp, err := client.Do(req)
 ```
 
-Why make things ugly while you can just do it as follows:
+Why make things ugly while you can just do it as follows in the simplest way possible:
 
 ```go
 request := gorequest.New()
